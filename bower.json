@@ -1,0 +1,21 @@
+{
+  "name": "textualizer",
+  "description": "A jQuery plug-in which transitions through blurbs of text, animating each character.",
+  "keywords": [
+    "css",
+    "js",
+    "textualizer",
+    "front-end",
+    "web"
+  ],
+  "homepage": "http://kiro.me/projects/textualizer.html",
+  "license": "MIT",
+  "moduleType": "globals",
+  "main": [
+    "less/bootstrap.less",
+    "dist/js/bootstrap.js"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  }
+}
